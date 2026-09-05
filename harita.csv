@@ -1,0 +1,214 @@
+Yenikapı_M1, Aksaray_M1, 2
+Aksaray_M1, Emniyet-Fatih_M1, 2
+Emniyet-Fatih_M1, Topkapı-Ulubatlı_M1, 2
+Topkapı-Ulubatlı_M1, Bayrampaşa-Maltepe_M1, 2
+Bayrampaşa-Maltepe_M1, Sağmalcılar_M1, 2
+Sağmalcılar_M1, Kocatepe_M1, 2
+Kocatepe_M1, Otogar_M1, 2
+Otogar_M1, Terazidere_M1A, 2
+Terazidere_M1A, Davutpaşa-YTÜ_M1A, 2
+Davutpaşa-YTÜ_M1A, Merter_M1A, 2
+Merter_M1A, Zeytinburnu_M1A, 2
+Zeytinburnu_M1A, Bakırköy-İncirli_M1A, 3
+Bakırköy-İncirli_M1A, Bahçelievler_M1A, 2
+Bahçelievler_M1A, Ataköy-Şirinevler_M1A, 2
+Ataköy-Şirinevler_M1A, Yenibosna_M1A, 2
+Yenibosna_M1A, DTM-İstanbul Fuar Merkezi_M1A, 2
+DTM-İstanbul Fuar Merkezi_M1A, Atatürk Havalimanı_M1A, 2
+Otogar_M1, Esenler_M1B, 2
+Esenler_M1B, Menderes_M1B, 2
+Menderes_M1B, Üçyüzlü_M1B, 2
+Üçyüzlü_M1B, Bağcılar Meydan_M1B, 2
+Bağcılar Meydan_M1B, Kirazlı_M1B, 2
+Yenikapı_M2, Vezneciler_M2, 2
+Vezneciler_M2, Haliç_M2, 2
+Haliç_M2, Şişhane_M2, 2
+Şişhane_M2, Taksim_M2, 3
+Taksim_M2, Osmanbey_M2, 2
+Osmanbey_M2, Şişli-Mecidiyeköy_M2, 2
+Şişli-Mecidiyeköy_M2, Gayrettepe_M2, 2
+Gayrettepe_M2, Levent_M2, 2
+Levent_M2, 4. Levent_M2, 2
+4. Levent_M2, Sanayi Mahallesi_M2, 2
+Sanayi Mahallesi_M2, İTÜ-Ayazağa_M2, 2
+İTÜ-Ayazağa_M2, Atatürk Oto Sanayi_M2, 2
+Atatürk Oto Sanayi_M2, Darüşşafaka_M2, 2
+Darüşşafaka_M2, Hacıosman_M2, 2
+Sanayi Mahallesi_M2, Seyrantepe_M2, 3
+Bakırköy Sahil_M3, Özgürlük Meydanı_M3, 2
+Özgürlük Meydanı_M3, İncirli_M3, 2
+İncirli_M3, Haznedar_M3, 2
+Haznedar_M3, İlkyuva_M3, 2
+İlkyuva_M3, Yıldıztepe_M3, 2
+Yıldıztepe_M3, Molla Gürani_M3, 2
+Molla Gürani_M3, Kirazlı_M3, 2
+Kirazlı_M3, Yenimahalle_M3, 2
+Yenimahalle_M3, Mahmutbey_M3, 2
+Mahmutbey_M3, İSTOÇ_M3, 2
+İSTOÇ_M3, İkitelli Sanayi_M3, 2
+İkitelli Sanayi_M3, Turgut Özal_M3, 2
+Turgut Özal_M3, Siteler_M3, 2
+Siteler_M3, Başak Konutları_M3, 2
+Başak Konutları_M3, Başakşehir-Metrokent_M3, 2
+Başakşehir-Metrokent_M3, Onurkent_M3, 2
+Onurkent_M3, Şehir Hastanesi_M3, 2
+Şehir Hastanesi_M3, Toplu Konutlar_M3, 2
+Toplu Konutlar_M3, Kayaşehir Merkez_M3, 2
+Kadıköy_M4, Ayrılık Çeşmesi_M4, 2
+Ayrılık Çeşmesi_M4, Acıbadem_M4, 3
+Acıbadem_M4, Ünalan_M4, 2
+Ünalan_M4, Göztepe_M4, 2
+Göztepe_M4, Yenisahra_M4, 2
+Yenisahra_M4, Kozyatağı_M4, 2
+Kozyatağı_M4, Bostancı_M4, 2
+Bostancı_M4, Küçükyalı_M4, 2
+Küçükyalı_M4, Maltepe_M4, 3
+Maltepe_M4, Huzurevi_M4, 2
+Huzurevi_M4, Gülsuyu_M4, 2
+Gülsuyu_M4, Esenkent_M4, 2
+Esenkent_M4, Hastane-Adliye_M4, 2
+Hastane-Adliye_M4, Soğanlık_M4, 2
+Soğanlık_M4, Kartal_M4, 2
+Kartal_M4, Yakacık-Adnan Kahveci_M4, 2
+Yakacık-Adnan Kahveci_M4, Pendik_M4, 3
+Pendik_M4, Tavşantepe_M4, 2
+Tavşantepe_M4, Fevzi Çakmak-Hastane_M4, 3
+Fevzi Çakmak-Hastane_M4, Yayalar-Şeyhli_M4, 3
+Yayalar-Şeyhli_M4, Kurtköy_M4, 3
+Kurtköy_M4, Sabiha Gökçen Havalimanı_M4, 4
+Üsküdar_M5, Fıstıkağacı_M5, 2
+Fıstıkağacı_M5, Bağlarbaşı_M5, 2
+Bağlarbaşı_M5, Altunizade_M5, 2
+Altunizade_M5, Kısıklı_M5, 2
+Kısıklı_M5, Bulgurlu_M5, 3
+Bulgurlu_M5, Ümraniye_M5, 2
+Ümraniye_M5, Çarşı_M5, 2
+Çarşı_M5, Yamanevler_M5, 2
+Yamanevler_M5, Çakmak_M5, 2
+Çakmak_M5, Ihlamurkuyu_M5, 2
+Ihlamurkuyu_M5, Altınşehir_M5, 2
+Altınşehir_M5, İmam Hatip Lisesi_M5, 2
+İmam Hatip Lisesi_M5, Dudullu_M5, 2
+Dudullu_M5, Necip Fazıl_M5, 2
+Necip Fazıl_M5, Çekmeköy_M5, 2
+Çekmeköy_M5, Meclis_M5, 2
+Meclis_M5, Sarıgazi_M5, 2
+Sarıgazi_M5, Sancaktepe_M5, 2
+Sancaktepe_M5, Sancaktepe Şehir Hastanesi_M5, 2
+Sancaktepe Şehir Hastanesi_M5, Samandıra Merkez_M5, 2
+Levent_M6, Nispetiye_M6, 2
+Nispetiye_M6, Etiler_M6, 2
+Etiler_M6, Boğaziçi Üniversitesi-Hisarüstü_M6, 2
+Yıldız_M7, Fulya_M7, 2
+Fulya_M7, Mecidiyeköy_M7, 2
+Mecidiyeköy_M7, Çağlayan_M7, 2
+Çağlayan_M7, Kağıthane_M7, 2
+Kağıthane_M7, Nurtepe_M7, 2
+Nurtepe_M7, Alibeyköy_M7, 2
+Alibeyköy_M7, Çırçır_M7, 2
+Çırçır_M7, Veysel Karani-Akşemsettin_M7, 2
+Veysel Karani-Akşemsettin_M7, Yeşilpınar_M7, 2
+Yeşilpınar_M7, Kazım Karabekir_M7, 2
+Kazım Karabekir_M7, Yenimahalle_M7, 2
+Yenimahalle_M7, Karadeniz Mahallesi_M7, 2
+Karadeniz Mahallesi_M7, Tekstilkent-Giyimkent_M7, 2
+Tekstilkent-Giyimkent_M7, Oruç Reis_M7, 2
+Oruç Reis_M7, Göztepe Mahallesi_M7, 2
+Göztepe Mahallesi_M7, Mahmutbey_M7, 2
+Bostancı_M8, Emin Ali Paşa_M8, 2
+Emin Ali Paşa_M8, Ayşekadın_M8, 2
+Ayşekadın_M8, Kozyatağı_M8, 2
+Kozyatağı_M8, Küçükbakkalköy_M8, 2
+Küçükbakkalköy_M8, İçerenköy_M8, 2
+İçerenköy_M8, Kayışdağı_M8, 2
+Kayışdağı_M8, Mevlana_M8, 2
+Mevlana_M8, İMES_M8, 2
+İMES_M8, MODOKO-Keyap_M8, 2
+MODOKO-Keyap_M8, Dudullu_M8, 2
+Dudullu_M8, Huzur_M8, 2
+Huzur_M8, Parseller_M8, 2
+Ataköy_M9, Yenibosna_M9, 3
+Yenibosna_M9, Çobançeşme_M9, 2
+Çobançeşme_M9, 29 Ekim Cumhuriyet_M9, 2
+29 Ekim Cumhuriyet_M9, Doğu Sanayi_M9, 2
+Doğu Sanayi_M9, Mimar Sinan_M9, 2
+Mimar Sinan_M9, 15 Temmuz_M9, 2
+15 Temmuz_M9, Halkalı Caddesi_M9, 2
+Halkalı Caddesi_M9, Atatürk Mahallesi_M9, 2
+Atatürk Mahallesi_M9, Bahariye_M9, 2
+Bahariye_M9, MASKO_M9, 2
+MASKO_M9, İkitelli Sanayi_M9, 2
+İkitelli Sanayi_M9, Ziya Gökalp Mahallesi_M9, 2
+Ziya Gökalp Mahallesi_M9, Olimpiyat_M9, 2
+Yenikapı_M1, Yenikapı_B1, 4
+Yenikapı_M1, Yenikapı_M2, 3
+Zeytinburnu_M1A, Zeytinburnu_B1, 10
+Bakırköy-İncirli_M1A, Bakırköy_B1, 15
+Bakırköy-İncirli_M1A, İncirli_M3, 3
+Yenibosna_M1A, Yenibosna_M9, 3
+Kirazlı_M1B, Kirazlı_M3, 3
+Ayrılık Çeşmesi_B1, Ayrılık Çeşmesi_M4, 3
+Bostancı_B1, Bostancı_M4, 8
+Maltepe_B1, Maltepe_M4, 15
+Kartal_B1, Kartal_M4, 12
+Pendik_B1, Pendik_M4, 10
+Yenikapı_B1, Yenikapı_M1, 4
+Zeytinburnu_B1, Zeytinburnu_M1A, 10
+Bakırköy_B1, Bakırköy-İncirli_M1A, 15
+Yenikapı_B1, Yenikapı_M2, 4
+Bakırköy_B1, Özgürlük Meydanı_M3, 4
+Üsküdar_B1, Üsküdar_M5, 3
+Bostancı_B1, Bostancı_M8, 5
+Ataköy_B1, Ataköy_M9, 4
+Yenikapı_M1, Yenikapı_M2, 3
+Bakırköy-İncirli_M1A, İncirli_M3, 3
+Kirazlı_M1B, Kirazlı_M3, 3
+Yenibosna_M1A, Yenibosna_M9, 3
+Levent_M2, Levent_M6, 4
+Şişli-Mecidiyeköy_M2, Mecidiyeköy_M7, 5
+Mahmutbey_M3, Mahmutbey_M7, 3
+İkitelli Sanayi_M3, İkitelli Sanayi_M9, 2
+Kozyatağı_M4, Kozyatağı_M8, 3
+Dudullu_M5, Dudullu_M8, 3
+Halkalı_B1, Mustafa Kemal_B1, 2
+Mustafa Kemal_B1, Küçükçekmece_B1, 2
+Küçükçekmece_B1, Florya_B1, 3
+Florya_B1, Florya Akvaryum_B1, 2
+Florya Akvaryum_B1, Yeşilköy_B1, 3
+Yeşilköy_B1, Yeşilyurt_B1, 2
+Yeşilyurt_B1, Ataköy_B1, 2
+Ataköy_B1, Bakırköy_B1, 3
+Bakırköy_B1, Yenimahalle_B1, 2
+Yenimahalle_B1, Zeytinburnu_B1, 2
+Zeytinburnu_B1, Kazlıçeşme_B1, 3
+Kazlıçeşme_B1, Yenikapı_B1, 5
+Yenikapı_B1, Sirkeci_B1, 3
+Sirkeci_B1, Üsküdar_B1, 4
+Üsküdar_B1, Ayrılık Çeşmesi_B1, 4
+Ayrılık Çeşmesi_B1, Söğütlüçeşme_B1, 3
+Söğütlüçeşme_B1, Feneryolu_B1, 2
+Feneryolu_B1, Göztepe_B1, 2
+Göztepe_B1, Erenköy_B1, 2
+Erenköy_B1, Suadiye_B1, 2
+Suadiye_B1, Bostancı_B1, 2
+Bostancı_B1, Küçükyalı_B1, 3
+Küçükyalı_B1, İdealtepe_B1, 2
+İdealtepe_B1, Süreyya Plajı_B1, 2
+Süreyya Plajı_B1, Maltepe_B1, 2
+Maltepe_B1, Cevizli_B1, 3
+Cevizli_B1, Atalar_B1, 2
+Atalar_B1, Başak_B1, 2
+Başak_B1, Kartal_B1, 2
+Kartal_B1, Yunus_B1, 2
+Yunus_B1, Pendik_B1, 3
+Pendik_B1, Kaynarca_B1, 3
+Kaynarca_B1, Tersane_B1, 2
+Tersane_B1, Güzelyalı_B1, 2
+Güzelyalı_B1, Aydıntepe_B1, 2
+Aydıntepe_B1, İçmeler_B1, 2
+İçmeler_B1, Tuzla_B1, 3
+Tuzla_B1, Çayırova_B1, 4
+Çayırova_B1, Fatih_B1, 2
+Fatih_B1, Osmangazi_B1, 2
+Osmangazi_B1, Darıca_B1, 3
+Darıca_B1, Gebze_B1, 3
