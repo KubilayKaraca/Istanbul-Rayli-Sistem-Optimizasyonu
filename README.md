@@ -35,7 +35,7 @@ Proje modüler bir yapıda, 4 temel Java sınıfından ve 1 veri dosyasından ol
 Başlangıç durağını giriniz: Haliç_M2
 Hedef durağı giriniz: Acıbadem_M4
 Toplam Süre: 23 dakika
-Haliç_M2 -> Vezneciler_M2 -> Yenikapı_M2 -> Yenikapı_B1 -> Sirkeci_B1 -> Üsküdar_B1 -> Ayrılık Çeşmesi_B1 -> Ayrılık Çeşmesi_M4 -> Acıbadem_M4'''
+Haliç_M2 -> Vezneciler_M2 -> Yenikapı_M2 -> Yenikapı_B1 -> Sirkeci_B1 -> Üsküdar_B1 -> Ayrılık Çeşmesi_B1 -> Ayrılık Çeşmesi_M4 -> Acıbadem_M4```
 
 ## 👨‍💻 Geliştirici
 
