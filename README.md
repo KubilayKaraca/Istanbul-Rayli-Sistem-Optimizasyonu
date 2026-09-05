@@ -38,8 +38,6 @@ Toplam Süre: 23 dakika
 Haliç_M2 -> Vezneciler_M2 -> Yenikapı_M2 -> Yenikapı_B1 -> Sirkeci_B1 -> Üsküdar_B1 -> Ayrılık Çeşmesi_B1 -> Ayrılık Çeşmesi_M4 -> Acıbadem_M4
 ```
 ## 👨‍💻 Geliştirici
+**Kubilay Karaca**
+* GitHub: [@KubilayKaraca](https://github.com/KubilayKaraca)
 
-Kubilay Karaca
-
-Bahçeşehir Üniversitesi - Bilgisayar Mühendisliği
-Github: @KubilayKaraca
